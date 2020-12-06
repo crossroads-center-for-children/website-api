@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "classes",
+  "info": {
+    "name": "Class"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "youngest": {
+      "type": "decimal"
+    },
+    "oldest": {
+      "type": "integer"
+    },
+    "size": {
+      "type": "integer"
+    }
+  }
+}
