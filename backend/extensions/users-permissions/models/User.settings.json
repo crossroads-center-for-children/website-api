@@ -60,8 +60,8 @@
       "configurable": false
     },
     "person": {
-      "model": "people",
-      "via": "user"
+      "via": "user",
+      "model": "people"
     },
     "photo": {
       "model": "file",
