@@ -1,0 +1,91 @@
+{
+  "kind": "collectionType",
+  "collectionName": "person",
+  "info": {
+    "name": "Person",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "honorific": {
+      "type": "enumeration",
+      "enum": [
+        "Mr",
+        "Mrs",
+        "Miss",
+        "Dr"
+      ]
+    },
+    "email": {
+      "type": "email"
+    },
+    "phone": {
+      "type": "biginteger"
+    },
+    "role": {
+      "type": "enumeration",
+      "enum": [
+        "executive_director",
+        "clinical_director",
+        "director_of_education",
+        "educational_supervisor",
+        "admin_assistant",
+        "medication_administrant",
+        "health_care_aide",
+        "resource_development_specialist",
+        "program_bookkeeper",
+        "business_office_assistant",
+        "directors_assistant",
+        "teacher",
+        "teaching_assistant",
+        "volunteer",
+        "student",
+        "parent"
+      ]
+    },
+    "extension": {
+      "type": "integer"
+    },
+    "photo": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "startDate": {
+      "type": "date"
+    },
+    "class": {
+      "model": "class",
+      "via": "people"
+    },
+    "donations": {
+      "collection": "donation",
+      "via": "people"
+    },
+    "services": {
+      "collection": "service",
+      "via": "providers"
+    },
+    "user": {
+      "via": "person",
+      "plugin": "users-permissions",
+      "model": "user"
+    }
+  }
+}
