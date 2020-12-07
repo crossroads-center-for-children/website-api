@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "classes",
   "info": {
-    "name": "Class"
+    "name": "Class",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -21,6 +22,32 @@
     },
     "size": {
       "type": "integer"
+    },
+    "people": {
+      "via": "class",
+      "collection": "people"
+    },
+    "photos": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "cover": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
     }
   }
 }
