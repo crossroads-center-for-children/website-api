@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/fundraising-programs",
+      "handler": "fundraising-program.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/fundraising-programs/count",
+      "handler": "fundraising-program.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/fundraising-programs/:id",
+      "handler": "fundraising-program.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/fundraising-programs",
+      "handler": "fundraising-program.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/fundraising-programs/:id",
+      "handler": "fundraising-program.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/fundraising-programs/:id",
+      "handler": "fundraising-program.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}
