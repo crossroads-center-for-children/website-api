@@ -550,17 +550,11 @@
                 "lastName": {
                   "type": "string"
                 },
-                "honorific": {
-                  "type": "string"
-                },
                 "email": {
                   "type": "string"
                 },
                 "phone": {
                   "type": "integer"
-                },
-                "role": {
-                  "type": "string"
                 },
                 "extension": {
                   "type": "integer"
@@ -574,7 +568,10 @@
                 "class": {
                   "type": "string"
                 },
-                "donations": {
+                "user": {
+                  "type": "string"
+                },
+                "positions": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -586,80 +583,7 @@
                     "type": "string"
                   }
                 },
-                "user": {
-                  "type": "string"
-                },
                 "published_at": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
-              }
-            }
-          },
-          "photos": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id",
-                "name",
-                "hash",
-                "mime",
-                "size",
-                "url",
-                "provider"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "name": {
-                  "type": "string"
-                },
-                "alternativeText": {
-                  "type": "string"
-                },
-                "caption": {
-                  "type": "string"
-                },
-                "width": {
-                  "type": "integer"
-                },
-                "height": {
-                  "type": "integer"
-                },
-                "formats": {
-                  "type": "object"
-                },
-                "hash": {
-                  "type": "string"
-                },
-                "ext": {
-                  "type": "string"
-                },
-                "mime": {
-                  "type": "string"
-                },
-                "size": {
-                  "type": "number"
-                },
-                "url": {
-                  "type": "string"
-                },
-                "previewUrl": {
-                  "type": "string"
-                },
-                "provider": {
-                  "type": "string"
-                },
-                "provider_metadata": {
-                  "type": "object"
-                },
-                "related": {
                   "type": "string"
                 },
                 "created_by": {
@@ -738,6 +662,98 @@
               }
             }
           },
+          "content": {
+            "type": "string"
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "photo": {
+                  "type": "string"
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "classes": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "posts": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "videos": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "video": {
+                  "type": "string"
+                },
+                "classes": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "posts": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "link": {
+                  "type": "string"
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -759,6 +775,21 @@
             "type": "integer"
           },
           "people": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "content": {
+            "type": "string"
+          },
+          "images": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "videos": {
             "type": "array",
             "items": {
               "type": "string"

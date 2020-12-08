@@ -571,6 +571,12 @@
                   "type": "string"
                 }
               },
+              "posts": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
               "created_by": {
                 "type": "string"
               },
@@ -605,12 +611,6 @@
               "cover": {
                 "type": "string"
               },
-              "post_types": {
-                "type": "array",
-                "items": {
-                  "type": "string"
-                }
-              },
               "tags": {
                 "type": "array",
                 "items": {
@@ -618,6 +618,36 @@
                 }
               },
               "comments": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "authors": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "collections": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "media": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "photos": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "videos": {
                 "type": "array",
                 "items": {
                   "type": "string"

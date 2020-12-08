@@ -1,0 +1,44 @@
+{
+  "kind": "collectionType",
+  "collectionName": "videos",
+  "info": {
+    "name": "Video",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "video": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "classes": {
+      "collection": "class",
+      "via": "videos",
+      "dominant": true
+    },
+    "posts": {
+      "collection": "post",
+      "via": "videos",
+      "dominant": true
+    },
+    "tags": {
+      "collection": "tag",
+      "via": "videos",
+      "dominant": true
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

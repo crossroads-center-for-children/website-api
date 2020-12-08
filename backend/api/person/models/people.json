@@ -17,41 +17,11 @@
     "lastName": {
       "type": "string"
     },
-    "honorific": {
-      "type": "enumeration",
-      "enum": [
-        "Mr",
-        "Mrs",
-        "Ms",
-        "Dr"
-      ]
-    },
     "email": {
       "type": "email"
     },
     "phone": {
       "type": "biginteger"
-    },
-    "role": {
-      "type": "enumeration",
-      "enum": [
-        "executive_director",
-        "clinical_director",
-        "director_of_education",
-        "educational_supervisor",
-        "admin_assistant",
-        "medication_administrant",
-        "health_care_aide",
-        "resource_development_specialist",
-        "program_bookkeeper",
-        "business_office_assistant",
-        "directors_assistant",
-        "teacher",
-        "teaching_assistant",
-        "volunteer",
-        "student",
-        "parent"
-      ]
     },
     "extension": {
       "type": "integer"
@@ -74,18 +44,18 @@
       "model": "class",
       "via": "people"
     },
-    "donations": {
-      "collection": "donation",
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user",
+      "via": "person"
+    },
+    "positions": {
+      "collection": "position",
       "via": "people"
     },
     "services": {
       "collection": "service",
       "via": "providers"
-    },
-    "user": {
-      "plugin": "users-permissions",
-      "model": "user",
-      "via": "person"
     }
   }
 }

@@ -16,13 +16,21 @@
       "required": true
     },
     "posts": {
-      "collection": "post",
       "via": "tags",
+      "collection": "post",
       "dominant": true
     },
     "resources": {
       "via": "tags",
       "collection": "resource"
+    },
+    "photos": {
+      "via": "tags",
+      "collection": "photo"
+    },
+    "videos": {
+      "via": "tags",
+      "collection": "video"
     }
   }
 }

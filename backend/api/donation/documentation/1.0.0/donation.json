@@ -525,73 +525,6 @@
           "amount": {
             "type": "number"
           },
-          "people": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "firstName": {
-                  "type": "string"
-                },
-                "lastName": {
-                  "type": "string"
-                },
-                "honorific": {
-                  "type": "string"
-                },
-                "email": {
-                  "type": "string"
-                },
-                "phone": {
-                  "type": "integer"
-                },
-                "role": {
-                  "type": "string"
-                },
-                "extension": {
-                  "type": "integer"
-                },
-                "photo": {
-                  "type": "string"
-                },
-                "startDate": {
-                  "type": "string"
-                },
-                "class": {
-                  "type": "string"
-                },
-                "donations": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "services": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "user": {
-                  "type": "string"
-                },
-                "published_at": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
-              }
-            }
-          },
           "date": {
             "type": "string",
             "format": "date"
@@ -606,12 +539,6 @@
         "properties": {
           "amount": {
             "type": "number"
-          },
-          "people": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            }
           },
           "date": {
             "type": "string",

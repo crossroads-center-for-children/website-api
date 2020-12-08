@@ -77,6 +77,10 @@
     "comments": {
       "via": "user",
       "collection": "comment"
+    },
+    "posts": {
+      "via": "authors",
+      "collection": "post"
     }
   }
 }

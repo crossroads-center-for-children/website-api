@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "services",
   "info": {
-    "name": "Service"
+    "name": "Service",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -18,11 +19,6 @@
     },
     "contact": {
       "model": "people"
-    },
-    "providers": {
-      "via": "services",
-      "collection": "people",
-      "dominant": true
     },
     "content": {
       "type": "richtext"
@@ -48,6 +44,11 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "providers": {
+      "via": "services",
+      "collection": "people",
+      "dominant": true
     }
   }
 }

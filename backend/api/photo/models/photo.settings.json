@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "photo",
+  "info": {
+    "name": "Photo",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "photo": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "tags": {
+      "collection": "tag",
+      "via": "photos",
+      "dominant": true
+    },
+    "classes": {
+      "collection": "class",
+      "via": "images",
+      "dominant": true
+    },
+    "posts": {
+      "collection": "post",
+      "via": "photos",
+      "dominant": true
+    }
+  }
+}

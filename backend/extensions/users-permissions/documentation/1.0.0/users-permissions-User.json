@@ -1265,17 +1265,11 @@
               "lastName": {
                 "type": "string"
               },
-              "honorific": {
-                "type": "string"
-              },
               "email": {
                 "type": "string"
               },
               "phone": {
                 "type": "integer"
-              },
-              "role": {
-                "type": "string"
               },
               "extension": {
                 "type": "integer"
@@ -1289,7 +1283,10 @@
               "class": {
                 "type": "string"
               },
-              "donations": {
+              "user": {
+                "type": "string"
+              },
+              "positions": {
                 "type": "array",
                 "items": {
                   "type": "string"
@@ -1300,9 +1297,6 @@
                 "items": {
                   "type": "string"
                 }
-              },
-              "user": {
-                "type": "string"
               },
               "published_at": {
                 "type": "string"
@@ -1418,6 +1412,85 @@
                 }
               }
             }
+          },
+          "posts": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "Title": {
+                  "type": "string"
+                },
+                "Subtitle": {
+                  "type": "string"
+                },
+                "date": {
+                  "type": "string"
+                },
+                "content": {
+                  "type": "string"
+                },
+                "cover": {
+                  "type": "string"
+                },
+                "tags": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "comments": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "authors": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "collections": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "media": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "photos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "videos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
           }
         }
       },
@@ -1464,6 +1537,12 @@
             "type": "string"
           },
           "comments": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "posts": {
             "type": "array",
             "items": {
               "type": "string"

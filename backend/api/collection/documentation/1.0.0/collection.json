@@ -1,6 +1,6 @@
 {
   "paths": {
-    "/resources": {
+    "/collections": {
       "get": {
         "deprecated": false,
         "description": "",
@@ -12,7 +12,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Resource"
+                    "$ref": "#/components/schemas/Collection"
                   }
                 }
               }
@@ -51,7 +51,7 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "parameters": [
           {
@@ -201,7 +201,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Resource"
+                  "$ref": "#/components/schemas/Collection"
                 }
               }
             }
@@ -239,7 +239,7 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "requestBody": {
           "description": "",
@@ -247,14 +247,14 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/NewResource"
+                "$ref": "#/components/schemas/NewCollection"
               }
             }
           }
         }
       }
     },
-    "/resources/count": {
+    "/collections/count": {
       "get": {
         "deprecated": false,
         "description": "",
@@ -306,12 +306,12 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "parameters": []
       }
     },
-    "/resources/{id}": {
+    "/collections/{id}": {
       "get": {
         "deprecated": false,
         "description": "",
@@ -321,7 +321,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Resource"
+                  "$ref": "#/components/schemas/Collection"
                 }
               }
             }
@@ -359,7 +359,7 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "parameters": [
           {
@@ -383,7 +383,7 @@
             "content": {
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Resource"
+                  "$ref": "#/components/schemas/Collection"
                 }
               }
             }
@@ -421,7 +421,7 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "requestBody": {
           "description": "",
@@ -429,7 +429,7 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/NewResource"
+                "$ref": "#/components/schemas/NewCollection"
               }
             }
           }
@@ -495,7 +495,7 @@
         },
         "summary": "",
         "tags": [
-          "Resource"
+          "Collection"
         ],
         "parameters": [
           {
@@ -514,7 +514,7 @@
   },
   "components": {
     "schemas": {
-      "Resource": {
+      "Collection": {
         "required": [
           "id"
         ],
@@ -525,103 +525,56 @@
           "title": {
             "type": "string"
           },
-          "description": {
-            "type": "string"
-          },
-          "link": {
-            "type": "string"
-          },
-          "media": {
+          "posts": {
             "type": "array",
             "items": {
               "required": [
-                "id",
-                "name",
-                "hash",
-                "mime",
-                "size",
-                "url",
-                "provider"
+                "id"
               ],
               "properties": {
                 "id": {
                   "type": "string"
                 },
-                "name": {
+                "Title": {
                   "type": "string"
                 },
-                "alternativeText": {
+                "Subtitle": {
                   "type": "string"
                 },
-                "caption": {
+                "date": {
                   "type": "string"
                 },
-                "width": {
-                  "type": "integer"
-                },
-                "height": {
-                  "type": "integer"
-                },
-                "formats": {
-                  "type": "object"
-                },
-                "hash": {
+                "content": {
                   "type": "string"
                 },
-                "ext": {
+                "cover": {
                   "type": "string"
                 },
-                "mime": {
-                  "type": "string"
-                },
-                "size": {
-                  "type": "number"
-                },
-                "url": {
-                  "type": "string"
-                },
-                "previewUrl": {
-                  "type": "string"
-                },
-                "provider": {
-                  "type": "string"
-                },
-                "provider_metadata": {
-                  "type": "object"
-                },
-                "related": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
-              }
-            }
-          },
-          "tags": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id",
-                "tag"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "tag": {
-                  "type": "string"
-                },
-                "posts": {
+                "tags": {
                   "type": "array",
                   "items": {
                     "type": "string"
                   }
                 },
-                "resources": {
+                "comments": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "authors": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "collections": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "media": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -651,28 +604,95 @@
               }
             }
           },
+          "cover": {
+            "required": [
+              "id",
+              "name",
+              "hash",
+              "mime",
+              "size",
+              "url",
+              "provider"
+            ],
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "name": {
+                "type": "string"
+              },
+              "alternativeText": {
+                "type": "string"
+              },
+              "caption": {
+                "type": "string"
+              },
+              "width": {
+                "type": "integer"
+              },
+              "height": {
+                "type": "integer"
+              },
+              "formats": {
+                "type": "object"
+              },
+              "hash": {
+                "type": "string"
+              },
+              "ext": {
+                "type": "string"
+              },
+              "mime": {
+                "type": "string"
+              },
+              "size": {
+                "type": "number"
+              },
+              "url": {
+                "type": "string"
+              },
+              "previewUrl": {
+                "type": "string"
+              },
+              "provider": {
+                "type": "string"
+              },
+              "provider_metadata": {
+                "type": "object"
+              },
+              "related": {
+                "type": "string"
+              },
+              "created_by": {
+                "type": "string"
+              },
+              "updated_by": {
+                "type": "string"
+              }
+            }
+          },
+          "description": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
           }
         }
       },
-      "NewResource": {
+      "NewCollection": {
         "properties": {
           "title": {
             "type": "string"
           },
-          "description": {
-            "type": "string"
-          },
-          "link": {
-            "type": "string"
-          },
-          "tags": {
+          "posts": {
             "type": "array",
             "items": {
               "type": "string"
             }
+          },
+          "description": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",
@@ -690,7 +710,7 @@
   },
   "tags": [
     {
-      "name": "Resource"
+      "name": "Collection"
     }
   ]
 }

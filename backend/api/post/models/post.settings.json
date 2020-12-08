@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "posts",
   "info": {
-    "name": "Post"
+    "name": "Post",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -33,17 +34,42 @@
       "plugin": "upload",
       "required": false
     },
-    "post_types": {
-      "via": "posts",
-      "collection": "post-type"
-    },
     "tags": {
-      "via": "posts",
-      "collection": "tag"
+      "collection": "tag",
+      "via": "posts"
     },
     "comments": {
-      "via": "post",
-      "collection": "comment"
+      "collection": "comment",
+      "via": "post"
+    },
+    "authors": {
+      "plugin": "users-permissions",
+      "collection": "user",
+      "via": "posts",
+      "dominant": true
+    },
+    "collections": {
+      "collection": "collection",
+      "via": "posts"
+    },
+    "media": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "photos": {
+      "via": "posts",
+      "collection": "photo"
+    },
+    "videos": {
+      "via": "posts",
+      "collection": "video"
     }
   }
 }

@@ -27,17 +27,6 @@
       "via": "class",
       "collection": "people"
     },
-    "photos": {
-      "collection": "file",
-      "via": "related",
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ],
-      "plugin": "upload",
-      "required": false
-    },
     "cover": {
       "model": "file",
       "via": "related",
@@ -48,6 +37,17 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "images": {
+      "via": "classes",
+      "collection": "photo"
+    },
+    "videos": {
+      "via": "classes",
+      "collection": "video"
     }
   }
 }

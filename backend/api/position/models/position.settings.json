@@ -1,8 +1,9 @@
 {
   "kind": "collectionType",
-  "collectionName": "positions",
+  "collectionName": "position",
   "info": {
-    "name": "Position"
+    "name": "Position",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -10,16 +11,6 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "title": {
-      "type": "string"
-    },
-    "type": {
-      "type": "enumeration",
-      "enum": [
-        "paid",
-        "volunteer"
-      ]
-    },
     "student_contact": {
       "type": "boolean"
     },
@@ -39,6 +30,29 @@
     },
     "contact": {
       "model": "people"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "educator",
+        "therapist",
+        "psychologist",
+        "behavior",
+        "office_staff",
+        "administrator",
+        "assistant",
+        "volunteer",
+        "intern",
+        "family"
+      ]
+    },
+    "people": {
+      "via": "positions",
+      "collection": "people",
+      "dominant": true
+    },
+    "title": {
+      "type": "string"
     }
   }
 }

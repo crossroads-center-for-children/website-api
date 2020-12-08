@@ -542,17 +542,11 @@
               "lastName": {
                 "type": "string"
               },
-              "honorific": {
-                "type": "string"
-              },
               "email": {
                 "type": "string"
               },
               "phone": {
                 "type": "integer"
-              },
-              "role": {
-                "type": "string"
               },
               "extension": {
                 "type": "integer"
@@ -566,7 +560,10 @@
               "class": {
                 "type": "string"
               },
-              "donations": {
+              "user": {
+                "type": "string"
+              },
+              "positions": {
                 "type": "array",
                 "items": {
                   "type": "string"
@@ -578,9 +575,6 @@
                   "type": "string"
                 }
               },
-              "user": {
-                "type": "string"
-              },
               "published_at": {
                 "type": "string"
               },
@@ -589,73 +583,6 @@
               },
               "updated_by": {
                 "type": "string"
-              }
-            }
-          },
-          "providers": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "firstName": {
-                  "type": "string"
-                },
-                "lastName": {
-                  "type": "string"
-                },
-                "honorific": {
-                  "type": "string"
-                },
-                "email": {
-                  "type": "string"
-                },
-                "phone": {
-                  "type": "integer"
-                },
-                "role": {
-                  "type": "string"
-                },
-                "extension": {
-                  "type": "integer"
-                },
-                "photo": {
-                  "type": "string"
-                },
-                "startDate": {
-                  "type": "string"
-                },
-                "class": {
-                  "type": "string"
-                },
-                "donations": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "services": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "user": {
-                  "type": "string"
-                },
-                "published_at": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
               }
             }
           },
@@ -799,6 +726,67 @@
               }
             }
           },
+          "providers": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "firstName": {
+                  "type": "string"
+                },
+                "lastName": {
+                  "type": "string"
+                },
+                "email": {
+                  "type": "string"
+                },
+                "phone": {
+                  "type": "integer"
+                },
+                "extension": {
+                  "type": "integer"
+                },
+                "photo": {
+                  "type": "string"
+                },
+                "startDate": {
+                  "type": "string"
+                },
+                "class": {
+                  "type": "string"
+                },
+                "user": {
+                  "type": "string"
+                },
+                "positions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "services": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -816,14 +804,14 @@
           "contact": {
             "type": "string"
           },
+          "content": {
+            "type": "string"
+          },
           "providers": {
             "type": "array",
             "items": {
               "type": "string"
             }
-          },
-          "content": {
-            "type": "string"
           },
           "published_at": {
             "type": "string",

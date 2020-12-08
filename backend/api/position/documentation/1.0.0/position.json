@@ -522,16 +522,6 @@
           "id": {
             "type": "string"
           },
-          "title": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string",
-            "enum": [
-              "paid",
-              "volunteer"
-            ]
-          },
           "student_contact": {
             "type": "boolean"
           },
@@ -622,17 +612,11 @@
               "lastName": {
                 "type": "string"
               },
-              "honorific": {
-                "type": "string"
-              },
               "email": {
                 "type": "string"
               },
               "phone": {
                 "type": "integer"
-              },
-              "role": {
-                "type": "string"
               },
               "extension": {
                 "type": "integer"
@@ -646,7 +630,10 @@
               "class": {
                 "type": "string"
               },
-              "donations": {
+              "user": {
+                "type": "string"
+              },
+              "positions": {
                 "type": "array",
                 "items": {
                   "type": "string"
@@ -657,9 +644,6 @@
                 "items": {
                   "type": "string"
                 }
-              },
-              "user": {
-                "type": "string"
               },
               "published_at": {
                 "type": "string"
@@ -672,6 +656,85 @@
               }
             }
           },
+          "type": {
+            "type": "string",
+            "enum": [
+              "educator",
+              "therapist",
+              "psychologist",
+              "behavior",
+              "office_staff",
+              "administrator",
+              "assistant",
+              "volunteer",
+              "intern",
+              "family"
+            ]
+          },
+          "people": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "firstName": {
+                  "type": "string"
+                },
+                "lastName": {
+                  "type": "string"
+                },
+                "email": {
+                  "type": "string"
+                },
+                "phone": {
+                  "type": "integer"
+                },
+                "extension": {
+                  "type": "integer"
+                },
+                "photo": {
+                  "type": "string"
+                },
+                "startDate": {
+                  "type": "string"
+                },
+                "class": {
+                  "type": "string"
+                },
+                "user": {
+                  "type": "string"
+                },
+                "positions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "services": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "title": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -680,16 +743,6 @@
       },
       "NewPosition": {
         "properties": {
-          "title": {
-            "type": "string"
-          },
-          "type": {
-            "type": "string",
-            "enum": [
-              "paid",
-              "volunteer"
-            ]
-          },
           "student_contact": {
             "type": "boolean"
           },
@@ -697,6 +750,30 @@
             "type": "string"
           },
           "contact": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "educator",
+              "therapist",
+              "psychologist",
+              "behavior",
+              "office_staff",
+              "administrator",
+              "assistant",
+              "volunteer",
+              "intern",
+              "family"
+            ]
+          },
+          "people": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "title": {
             "type": "string"
           },
           "published_at": {
