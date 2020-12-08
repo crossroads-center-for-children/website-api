@@ -779,6 +779,9 @@
           "link": {
             "type": "string"
           },
+          "title": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -806,6 +809,9 @@
             }
           },
           "link": {
+            "type": "string"
+          },
+          "title": {
             "type": "string"
           },
           "published_at": {
