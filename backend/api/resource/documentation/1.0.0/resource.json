@@ -651,6 +651,73 @@
               }
             }
           },
+          "shared_by": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "firstName": {
+                  "type": "string"
+                },
+                "lastName": {
+                  "type": "string"
+                },
+                "email": {
+                  "type": "string"
+                },
+                "phone": {
+                  "type": "integer"
+                },
+                "extension": {
+                  "type": "integer"
+                },
+                "photo": {
+                  "type": "string"
+                },
+                "startDate": {
+                  "type": "string"
+                },
+                "class": {
+                  "type": "string"
+                },
+                "user": {
+                  "type": "string"
+                },
+                "positions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "services": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "resources_shared": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -669,6 +736,12 @@
             "type": "string"
           },
           "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "shared_by": {
             "type": "array",
             "items": {
               "type": "string"

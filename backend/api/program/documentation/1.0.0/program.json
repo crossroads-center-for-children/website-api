@@ -712,6 +712,12 @@
                   "type": "string"
                 }
               },
+              "resources_shared": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
               "published_at": {
                 "type": "string"
               },

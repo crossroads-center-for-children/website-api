@@ -34,6 +34,10 @@
       "collection": "tag",
       "via": "resources",
       "dominant": true
+    },
+    "shared_by": {
+      "via": "resources_shared",
+      "collection": "people"
     }
   }
 }

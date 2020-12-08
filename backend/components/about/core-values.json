@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_about_core_values",
+  "info": {
+    "name": "Core-Values",
+    "icon": "heart"
+  },
+  "options": {},
+  "attributes": {
+    "values": {
+      "type": "json"
+    }
+  }
+}
