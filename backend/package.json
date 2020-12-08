@@ -21,6 +21,7 @@
     "strapi-plugin-graphql": "3.3.4",
     "strapi-plugin-upload": "3.3.4",
     "strapi-plugin-users-permissions": "3.3.4",
+    "strapi-provider-upload-aws-s3": "npm:@matt/strapi-provider-upload-asw3@^3.3.4",
     "strapi-utils": "3.3.4"
   },
   "author": {
