@@ -1,0 +1,1303 @@
+[
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef4f07969f507fa4d41ca",
+              "Title": "Meet the Directors!",
+              "content": "Dear families,\n\nEach year we look forward to having you in to visit the classrooms, meet the teachers and the therapists, and learn about how to support the school your child attends all year.  This year, we aren’t able to invite you in in-person, sadly. We are going to introduce each department and classroom here, instead.\n\nOne thing that you should know right off the jump: every single one of us, no matter our role, loves your child! We are all in this mission because we care about the futures of our students, and will work hard to make a positive difference in his/her life. We’re all happy to hear from you, so please don’t hesitate to reach out.\n\nThanks for joining us! We look forward to a wonderful school year, despite the difficulties of the times.",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:38:01.525Z",
+              "createdAt": "2020-12-08T03:37:20.803Z",
+              "updatedAt": "2020-12-08T03:38:59.243Z",
+              "__v": 0,
+              "id": "5fcef4f07969f507fa4d41ca"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef6977969f507fa4d41d1",
+              "Title": "Meet the Room 6 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:44:26.363Z",
+              "createdAt": "2020-12-08T03:44:23.946Z",
+              "updatedAt": "2020-12-08T03:44:26.566Z",
+              "__v": 0,
+              "id": "5fcef6977969f507fa4d41d1"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef5b37969f507fa4d41cc",
+              "Title": "Meet the Room 1 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:41:25.100Z",
+              "createdAt": "2020-12-08T03:40:35.976Z",
+              "updatedAt": "2020-12-08T03:44:43.048Z",
+              "__v": 0,
+              "id": "5fcef5b37969f507fa4d41cc"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef60b7969f507fa4d41cd",
+              "Title": "Meet the Room 2 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:42:06.653Z",
+              "createdAt": "2020-12-08T03:42:03.672Z",
+              "updatedAt": "2020-12-08T03:44:55.192Z",
+              "__v": 0,
+              "id": "5fcef60b7969f507fa4d41cd"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef6297969f507fa4d41ce",
+              "Title": "Meet the Room 3 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:42:46.307Z",
+              "createdAt": "2020-12-08T03:42:33.628Z",
+              "updatedAt": "2020-12-08T03:45:11.691Z",
+              "__v": 0,
+              "id": "5fcef6297969f507fa4d41ce"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef6507969f507fa4d41cf",
+              "Title": "Meet the Room 4 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:43:19.484Z",
+              "createdAt": "2020-12-08T03:43:12.837Z",
+              "updatedAt": "2020-12-08T03:45:31.197Z",
+              "__v": 0,
+              "id": "5fcef6507969f507fa4d41cf"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef6747969f507fa4d41d0",
+              "Title": "Meet the Room 5 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:43:50.966Z",
+              "createdAt": "2020-12-08T03:43:48.090Z",
+              "updatedAt": "2020-12-08T03:45:42.042Z",
+              "__v": 0,
+              "id": "5fcef6747969f507fa4d41d0"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef7187969f507fa4d41d2",
+              "Title": "Meet the Room 7 Team!",
+              "Subtitle": "",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:48:49.981Z",
+              "createdAt": "2020-12-08T03:46:32.771Z",
+              "updatedAt": "2020-12-08T03:48:50.158Z",
+              "__v": 0,
+              "id": "5fcef7187969f507fa4d41d2"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef76c7969f507fa4d41d3",
+              "Title": "Meet the Room 8 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:48:55.488Z",
+              "createdAt": "2020-12-08T03:47:56.553Z",
+              "updatedAt": "2020-12-08T03:48:55.665Z",
+              "__v": 0,
+              "id": "5fcef76c7969f507fa4d41d3"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef7897969f507fa4d41d4",
+              "Title": "Meet the Room 11 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:48:36.246Z",
+              "createdAt": "2020-12-08T03:48:25.427Z",
+              "updatedAt": "2020-12-08T03:48:36.423Z",
+              "__v": 0,
+              "id": "5fcef7897969f507fa4d41d4"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef7c37969f507fa4d41d5",
+              "Title": "Meet the Room 12 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:49:27.609Z",
+              "createdAt": "2020-12-08T03:49:23.422Z",
+              "updatedAt": "2020-12-08T03:49:27.789Z",
+              "__v": 0,
+              "id": "5fcef7c37969f507fa4d41d5"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef7ec7969f507fa4d41d6",
+              "Title": "Meet the Room 13 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:50:07.772Z",
+              "createdAt": "2020-12-08T03:50:04.320Z",
+              "updatedAt": "2020-12-08T03:50:07.946Z",
+              "__v": 0,
+              "id": "5fcef7ec7969f507fa4d41d6"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef80a7969f507fa4d41d7",
+              "Title": "Meet the Room 14 Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:50:40.554Z",
+              "createdAt": "2020-12-08T03:50:34.764Z",
+              "updatedAt": "2020-12-08T03:50:40.728Z",
+              "__v": 0,
+              "id": "5fcef80a7969f507fa4d41d7"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef86a7969f507fa4d41d9",
+              "Title": "Meet the OT/PT Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:52:14.078Z",
+              "createdAt": "2020-12-08T03:52:10.122Z",
+              "updatedAt": "2020-12-08T03:52:14.259Z",
+              "__v": 0,
+              "id": "5fcef86a7969f507fa4d41d9"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef83a7969f507fa4d41d8",
+              "Title": "Meet the Speech Therapists!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:51:28.987Z",
+              "createdAt": "2020-12-08T03:51:22.715Z",
+              "updatedAt": "2020-12-08T03:52:43.317Z",
+              "__v": 0,
+              "id": "5fcef83a7969f507fa4d41d8"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef95e7969f507fa4d41da",
+              "Title": "Meet the BCBAS Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:56:20.809Z",
+              "createdAt": "2020-12-08T03:56:14.192Z",
+              "updatedAt": "2020-12-08T03:56:20.998Z",
+              "__v": 0,
+              "id": "5fcef95e7969f507fa4d41da"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef9877969f507fa4d41db",
+              "Title": "Meet the School Psychologist!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:57:28.852Z",
+              "createdAt": "2020-12-08T03:56:55.893Z",
+              "updatedAt": "2020-12-08T03:58:04.035Z",
+              "__v": 0,
+              "id": "5fcef9877969f507fa4d41db"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcefa0a7969f507fa4d41dd",
+              "Title": "Meet the Admin Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:59:09.663Z",
+              "createdAt": "2020-12-08T03:59:06.381Z",
+              "updatedAt": "2020-12-08T03:59:09.845Z",
+              "__v": 0,
+              "id": "5fcefa0a7969f507fa4d41dd"
+          }
+      ],
+      "_id": "5fceb6c0012385f76d96a0ba",
+      "tag": "parents",
+      "published_at": "2020-12-07T23:12:03.784Z",
+      "createdAt": "2020-12-07T23:12:00.300Z",
+      "updatedAt": "2020-12-08T03:59:06.568Z",
+      "__v": 0,
+      "resources": [
+          {
+              "media": [],
+              "tags": [
+                  "5fceb6c0012385f76d96a0ba"
+              ],
+              "_id": "5fcfce27efa5a23b95c80178",
+              "title": "test",
+              "description": "test resource",
+              "link": "crossroadcenter.org",
+              "published_at": "2020-12-08T19:04:07.591Z",
+              "createdAt": "2020-12-08T19:04:07.595Z",
+              "updatedAt": "2020-12-08T19:04:07.698Z",
+              "__v": 0,
+              "id": "5fcfce27efa5a23b95c80178"
+          }
+      ],
+      "photos": [],
+      "videos": [],
+      "id": "5fceb6c0012385f76d96a0ba"
+  },
+  {
+      "posts": [],
+      "_id": "5fceb6cd012385f76d96a0bb",
+      "tag": "classroom",
+      "published_at": "2020-12-07T23:12:17.180Z",
+      "createdAt": "2020-12-07T23:12:13.575Z",
+      "updatedAt": "2020-12-07T23:12:17.312Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [
+                  "5fce4500088eeeb90c9e4e7b"
+              ],
+              "posts": [
+                  "5fcef5b37969f507fa4d41cc"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcefa567969f507fa4d41de",
+              "link": "https://youtu.be/R0Y8HvsS1Ck",
+              "published_at": "2020-12-08T04:00:26.192Z",
+              "createdAt": "2020-12-08T04:00:22.474Z",
+              "updatedAt": "2020-12-08T14:11:35.690Z",
+              "__v": 0,
+              "title": "Meet the Room 1 Team!",
+              "id": "5fcefa567969f507fa4d41de"
+          },
+          {
+              "classes": [
+                  "5fce4525088eeeb90c9e4e7c"
+              ],
+              "posts": [
+                  "5fcef60b7969f507fa4d41cd"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf885aef9bb31720910657",
+              "link": "https://youtu.be/_wGGosGfSj4",
+              "title": "Meet the Room 2 Team!",
+              "published_at": "2020-12-08T14:06:21.377Z",
+              "createdAt": "2020-12-08T14:06:18.375Z",
+              "updatedAt": "2020-12-08T14:11:55.472Z",
+              "__v": 0,
+              "id": "5fcf885aef9bb31720910657"
+          },
+          {
+              "classes": [
+                  "5fce4536088eeeb90c9e4e7d"
+              ],
+              "posts": [
+                  "5fcef6297969f507fa4d41ce"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf8871ef9bb31720910658",
+              "title": "Meet the Room 3 Team!",
+              "link": "https://youtu.be/YEKWLfZg4iU",
+              "published_at": "2020-12-08T14:06:44.146Z",
+              "createdAt": "2020-12-08T14:06:41.851Z",
+              "updatedAt": "2020-12-08T14:12:07.873Z",
+              "__v": 0,
+              "id": "5fcf8871ef9bb31720910658"
+          },
+          {
+              "classes": [
+                  "5fce4549088eeeb90c9e4e7e"
+              ],
+              "posts": [
+                  "5fcef6507969f507fa4d41cf"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf888def9bb31720910659",
+              "title": "Meet the Room 4 Team!",
+              "link": "https://youtu.be/YYUfhO3qxes",
+              "published_at": "2020-12-08T14:07:11.643Z",
+              "createdAt": "2020-12-08T14:07:09.349Z",
+              "updatedAt": "2020-12-08T14:12:22.647Z",
+              "__v": 0,
+              "id": "5fcf888def9bb31720910659"
+          },
+          {
+              "classes": [
+                  "5fce4562088eeeb90c9e4e7f"
+              ],
+              "posts": [
+                  "5fcef6747969f507fa4d41d0"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf88a2ef9bb3172091065a",
+              "link": "https://youtu.be/TmtSW_jiit8",
+              "title": "Meet the Room 5 Team!",
+              "published_at": "2020-12-08T14:07:32.405Z",
+              "createdAt": "2020-12-08T14:07:30.331Z",
+              "updatedAt": "2020-12-08T14:12:34.951Z",
+              "__v": 0,
+              "id": "5fcf88a2ef9bb3172091065a"
+          },
+          {
+              "classes": [
+                  "5fce459b088eeeb90c9e4e80"
+              ],
+              "posts": [
+                  "5fcef6977969f507fa4d41d1"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf88b5ef9bb3172091065b",
+              "link": "https://youtu.be/GAcuL7POOso",
+              "title": "Meet the Room 6 Team!",
+              "published_at": "2020-12-08T14:07:51.978Z",
+              "createdAt": "2020-12-08T14:07:49.706Z",
+              "updatedAt": "2020-12-08T14:12:47.666Z",
+              "__v": 0,
+              "id": "5fcf88b5ef9bb3172091065b"
+          },
+          {
+              "classes": [
+                  "5fce45ac088eeeb90c9e4e81"
+              ],
+              "posts": [
+                  "5fcef7187969f507fa4d41d2"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf88c8ef9bb3172091065c",
+              "link": "https://youtu.be/XpujUVLUruo",
+              "title": "Meet the Room 7 Team!",
+              "published_at": "2020-12-08T14:08:11.156Z",
+              "createdAt": "2020-12-08T14:08:08.896Z",
+              "updatedAt": "2020-12-08T14:13:02.124Z",
+              "__v": 0,
+              "id": "5fcf88c8ef9bb3172091065c"
+          },
+          {
+              "classes": [
+                  "5fce45c9088eeeb90c9e4e82"
+              ],
+              "posts": [
+                  "5fcef76c7969f507fa4d41d3"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf88dfef9bb3172091065d",
+              "link": "https://youtu.be/tqZo2usTeX4",
+              "title": "Meet the Room 8 Team!",
+              "published_at": "2020-12-08T14:08:33.319Z",
+              "createdAt": "2020-12-08T14:08:31.141Z",
+              "updatedAt": "2020-12-08T14:13:15.095Z",
+              "__v": 0,
+              "id": "5fcf88dfef9bb3172091065d"
+          },
+          {
+              "classes": [
+                  "5fce45d9088eeeb90c9e4e83"
+              ],
+              "posts": [
+                  "5fcef7897969f507fa4d41d4"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf88f5ef9bb3172091065e",
+              "title": "Meet the Room 11 Team!",
+              "link": "https://youtu.be/sPuvsDTmJ8Y",
+              "published_at": "2020-12-08T14:08:55.504Z",
+              "createdAt": "2020-12-08T14:08:53.341Z",
+              "updatedAt": "2020-12-08T14:13:28.104Z",
+              "__v": 0,
+              "id": "5fcf88f5ef9bb3172091065e"
+          },
+          {
+              "classes": [
+                  "5fce45e8088eeeb90c9e4e84"
+              ],
+              "posts": [
+                  "5fcef7c37969f507fa4d41d5"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf890aef9bb3172091065f",
+              "link": "https://youtu.be/0Z2r1JmJWyA",
+              "title": "Meet the Room 12 Team!",
+              "published_at": "2020-12-08T14:09:17.043Z",
+              "createdAt": "2020-12-08T14:09:14.423Z",
+              "updatedAt": "2020-12-08T14:13:44.158Z",
+              "__v": 0,
+              "id": "5fcf890aef9bb3172091065f"
+          },
+          {
+              "classes": [
+                  "5fce45fa088eeeb90c9e4e85"
+              ],
+              "posts": [
+                  "5fcef7ec7969f507fa4d41d6"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf8920ef9bb31720910660",
+              "link": "https://youtu.be/0Z2r1JmJWyA",
+              "title": "Meet the Room 13 Team!",
+              "published_at": "2020-12-08T14:09:42.825Z",
+              "createdAt": "2020-12-08T14:09:36.907Z",
+              "updatedAt": "2020-12-08T14:14:00.990Z",
+              "__v": 0,
+              "id": "5fcf8920ef9bb31720910660"
+          },
+          {
+              "classes": [
+                  "5fce460c088eeeb90c9e4e86"
+              ],
+              "posts": [
+                  "5fcef80a7969f507fa4d41d7"
+              ],
+              "tags": [
+                  "5fceb6cd012385f76d96a0bb"
+              ],
+              "_id": "5fcf8939ef9bb31720910661",
+              "link": "https://youtu.be/YBXkhd3H6qg",
+              "title": "Meet the Room 14 Team!",
+              "published_at": "2020-12-08T14:10:07.304Z",
+              "createdAt": "2020-12-08T14:10:01.403Z",
+              "updatedAt": "2020-12-08T14:14:16.947Z",
+              "__v": 0,
+              "id": "5fcf8939ef9bb31720910661"
+          }
+      ],
+      "id": "5fceb6cd012385f76d96a0bb"
+  },
+  {
+      "posts": [],
+      "_id": "5fceb6e0012385f76d96a0bc",
+      "tag": "training-opportunity",
+      "published_at": "2020-12-07T23:12:35.319Z",
+      "createdAt": "2020-12-07T23:12:32.044Z",
+      "updatedAt": "2020-12-07T23:24:56.566Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fceb6e0012385f76d96a0bc"
+  },
+  {
+      "posts": [],
+      "_id": "5fceb6e9012385f76d96a0bd",
+      "tag": "general",
+      "published_at": "2020-12-07T23:12:44.100Z",
+      "createdAt": "2020-12-07T23:12:41.963Z",
+      "updatedAt": "2020-12-07T23:12:44.233Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fceb6e9012385f76d96a0bd"
+  },
+  {
+      "posts": [],
+      "_id": "5fceba8e012385f76d96a0be",
+      "tag": "aba-clinic",
+      "published_at": "2020-12-07T23:28:16.866Z",
+      "createdAt": "2020-12-07T23:28:14.476Z",
+      "updatedAt": "2020-12-07T23:28:17.013Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fceba8e012385f76d96a0be"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef95e7969f507fa4d41da",
+              "Title": "Meet the BCBAS Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:56:20.809Z",
+              "createdAt": "2020-12-08T03:56:14.192Z",
+              "updatedAt": "2020-12-08T03:56:20.998Z",
+              "__v": 0,
+              "id": "5fcef95e7969f507fa4d41da"
+          }
+      ],
+      "_id": "5fcebaa2012385f76d96a0bf",
+      "tag": "applied-behavior-analysis",
+      "published_at": "2020-12-07T23:28:36.454Z",
+      "createdAt": "2020-12-07T23:28:34.172Z",
+      "updatedAt": "2020-12-08T03:56:14.389Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [],
+              "posts": [
+                  "5fcef95e7969f507fa4d41da"
+              ],
+              "tags": [
+                  "5fcebaa2012385f76d96a0bf"
+              ],
+              "_id": "5fcf8a6def9bb31720910664",
+              "link": "https://youtu.be/MFqyZClrtjE",
+              "title": "Meet the BCBAS Team!",
+              "published_at": "2020-12-08T14:15:12.693Z",
+              "createdAt": "2020-12-08T14:15:09.961Z",
+              "updatedAt": "2020-12-08T14:15:12.827Z",
+              "__v": 0,
+              "id": "5fcf8a6def9bb31720910664"
+          }
+      ],
+      "id": "5fcebaa2012385f76d96a0bf"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcf8d1c0ee0eb1b705d61be",
+              "content": "We decorated a tree at the [YWCA](https://www.ywca-neny.org/) in Schenectady, for the Festival of Trees. This year’s theme was the book, [Brown Bear, Brown Bear, What Do You See?](https://www.scholastic.com/teachers/books/brown-bear-brown-bear-what-do-you-see-by-bill-martin-jr/) by Bill Martin, Jr. Each class or department made an ornament to represent one of the characters in the book. There is one of each animal, one teacher and a lot of children. We wish everyone a wonderful holiday season, and encourage you to visit the YWCA’s website or that of the [Schenectady County Historical Society](https://schenectadyhistorical.org/festivals/) to learn about visiting the Festival of Trees this year.\nMany thanks to each student and staff member for your creativity and enthusiasm!\n\n[See what we did for the Festival of Trees last year!](http://crossroadcenter.org/an-autism-awareness-tree-by-crossroads-for-the-festival-of-trees/)\n\n",
+              "Title": "Crossroads at Festival of Trees",
+              "date": "2020-11-25T17:00:00.000Z",
+              "published_at": "2020-12-08T14:26:53.963Z",
+              "createdAt": "2020-12-08T14:26:36.112Z",
+              "updatedAt": "2020-12-08T14:29:10.339Z",
+              "__v": 0,
+              "cover": {
+                  "_id": "5fcf8cc00ee0eb1b705d61bd",
+                  "name": "brown-be-ee-tar-tree.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "brown_be_ee_tar_tree_0c8598c406",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 55.95,
+                  "width": 640,
+                  "height": 480,
+                  "url": "https://crossroads-center-for-children.s3.amazonaws.com/brown_be_ee_tar_tree_0c8598c406.jpg",
+                  "formats": {
+                      "thumbnail": {
+                          "name": "thumbnail_brown-be-ee-tar-tree.jpg",
+                          "hash": "thumbnail_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 208,
+                          "height": 156,
+                          "size": 8.66,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/thumbnail_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      },
+                      "small": {
+                          "name": "small_brown-be-ee-tar-tree.jpg",
+                          "hash": "small_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 500,
+                          "height": 375,
+                          "size": 36.36,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/small_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      }
+                  },
+                  "provider": "aws-s3",
+                  "related": [
+                      "5fcf8d1c0ee0eb1b705d61be"
+                  ],
+                  "createdAt": "2020-12-08T14:25:04.065Z",
+                  "updatedAt": "2020-12-08T14:26:36.483Z",
+                  "__v": 0,
+                  "id": "5fcf8cc00ee0eb1b705d61bd"
+              },
+              "id": "5fcf8d1c0ee0eb1b705d61be"
+          }
+      ],
+      "_id": "5fcebaac012385f76d96a0c0",
+      "tag": "art",
+      "published_at": "2020-12-07T23:28:47.114Z",
+      "createdAt": "2020-12-07T23:28:44.445Z",
+      "updatedAt": "2020-12-08T14:29:10.276Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebaac012385f76d96a0c0"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fceda99c4635d0317086561",
+              "Title": "Obstacle Races!",
+              "date": "2020-12-03T17:00:00.000Z",
+              "content": "Recently we received a HUGE shipment from Special Olympics to help us through the school year. With classes not mixing with each other, this year’s grant gave us a classroom kit for each classroom. MANY thanks to Ryan Miller and everyone at Special Olympics  for this awesome supply of physical education materials!!!\n\nHere’s a note from Mrs. Lindsay, Room 14’s Special Education teacher: “Students have really been enjoying the Special Olympics materials we received! They have been setting up obstacle courses for races in the hallway! I attached pictures of them racing too! :)”\n\nThanks for sharing with us, Room  14! We love seeing your activities!",
+              "published_at": "2020-12-08T01:45:00.316Z",
+              "createdAt": "2020-12-08T01:44:57.087Z",
+              "updatedAt": "2020-12-08T01:45:46.687Z",
+              "__v": 0,
+              "id": "5fceda99c4635d0317086561"
+          },
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcf8d1c0ee0eb1b705d61be",
+              "content": "We decorated a tree at the [YWCA](https://www.ywca-neny.org/) in Schenectady, for the Festival of Trees. This year’s theme was the book, [Brown Bear, Brown Bear, What Do You See?](https://www.scholastic.com/teachers/books/brown-bear-brown-bear-what-do-you-see-by-bill-martin-jr/) by Bill Martin, Jr. Each class or department made an ornament to represent one of the characters in the book. There is one of each animal, one teacher and a lot of children. We wish everyone a wonderful holiday season, and encourage you to visit the YWCA’s website or that of the [Schenectady County Historical Society](https://schenectadyhistorical.org/festivals/) to learn about visiting the Festival of Trees this year.\nMany thanks to each student and staff member for your creativity and enthusiasm!\n\n[See what we did for the Festival of Trees last year!](http://crossroadcenter.org/an-autism-awareness-tree-by-crossroads-for-the-festival-of-trees/)\n\n",
+              "Title": "Crossroads at Festival of Trees",
+              "date": "2020-11-25T17:00:00.000Z",
+              "published_at": "2020-12-08T14:26:53.963Z",
+              "createdAt": "2020-12-08T14:26:36.112Z",
+              "updatedAt": "2020-12-08T14:29:10.339Z",
+              "__v": 0,
+              "cover": {
+                  "_id": "5fcf8cc00ee0eb1b705d61bd",
+                  "name": "brown-be-ee-tar-tree.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "brown_be_ee_tar_tree_0c8598c406",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 55.95,
+                  "width": 640,
+                  "height": 480,
+                  "url": "https://crossroads-center-for-children.s3.amazonaws.com/brown_be_ee_tar_tree_0c8598c406.jpg",
+                  "formats": {
+                      "thumbnail": {
+                          "name": "thumbnail_brown-be-ee-tar-tree.jpg",
+                          "hash": "thumbnail_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 208,
+                          "height": 156,
+                          "size": 8.66,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/thumbnail_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      },
+                      "small": {
+                          "name": "small_brown-be-ee-tar-tree.jpg",
+                          "hash": "small_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 500,
+                          "height": 375,
+                          "size": 36.36,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/small_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      }
+                  },
+                  "provider": "aws-s3",
+                  "related": [
+                      "5fcf8d1c0ee0eb1b705d61be"
+                  ],
+                  "createdAt": "2020-12-08T14:25:04.065Z",
+                  "updatedAt": "2020-12-08T14:26:36.483Z",
+                  "__v": 0,
+                  "id": "5fcf8cc00ee0eb1b705d61bd"
+              },
+              "id": "5fcf8d1c0ee0eb1b705d61be"
+          }
+      ],
+      "_id": "5fcebabb012385f76d96a0c1",
+      "tag": "community",
+      "published_at": "2020-12-07T23:29:04.352Z",
+      "createdAt": "2020-12-07T23:28:59.556Z",
+      "updatedAt": "2020-12-08T14:29:10.276Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebabb012385f76d96a0c1"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebacd012385f76d96a0c2",
+      "tag": "day-care",
+      "published_at": "2020-12-07T23:29:57.552Z",
+      "createdAt": "2020-12-07T23:29:17.938Z",
+      "updatedAt": "2020-12-07T23:29:57.693Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebacd012385f76d96a0c2"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb07012385f76d96a0c3",
+      "tag": "donations",
+      "published_at": "2020-12-07T23:30:17.809Z",
+      "createdAt": "2020-12-07T23:30:15.362Z",
+      "updatedAt": "2020-12-07T23:30:17.938Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb07012385f76d96a0c3"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcf8d1c0ee0eb1b705d61be",
+              "content": "We decorated a tree at the [YWCA](https://www.ywca-neny.org/) in Schenectady, for the Festival of Trees. This year’s theme was the book, [Brown Bear, Brown Bear, What Do You See?](https://www.scholastic.com/teachers/books/brown-bear-brown-bear-what-do-you-see-by-bill-martin-jr/) by Bill Martin, Jr. Each class or department made an ornament to represent one of the characters in the book. There is one of each animal, one teacher and a lot of children. We wish everyone a wonderful holiday season, and encourage you to visit the YWCA’s website or that of the [Schenectady County Historical Society](https://schenectadyhistorical.org/festivals/) to learn about visiting the Festival of Trees this year.\nMany thanks to each student and staff member for your creativity and enthusiasm!\n\n[See what we did for the Festival of Trees last year!](http://crossroadcenter.org/an-autism-awareness-tree-by-crossroads-for-the-festival-of-trees/)\n\n",
+              "Title": "Crossroads at Festival of Trees",
+              "date": "2020-11-25T17:00:00.000Z",
+              "published_at": "2020-12-08T14:26:53.963Z",
+              "createdAt": "2020-12-08T14:26:36.112Z",
+              "updatedAt": "2020-12-08T14:29:10.339Z",
+              "__v": 0,
+              "cover": {
+                  "_id": "5fcf8cc00ee0eb1b705d61bd",
+                  "name": "brown-be-ee-tar-tree.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "brown_be_ee_tar_tree_0c8598c406",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 55.95,
+                  "width": 640,
+                  "height": 480,
+                  "url": "https://crossroads-center-for-children.s3.amazonaws.com/brown_be_ee_tar_tree_0c8598c406.jpg",
+                  "formats": {
+                      "thumbnail": {
+                          "name": "thumbnail_brown-be-ee-tar-tree.jpg",
+                          "hash": "thumbnail_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 208,
+                          "height": 156,
+                          "size": 8.66,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/thumbnail_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      },
+                      "small": {
+                          "name": "small_brown-be-ee-tar-tree.jpg",
+                          "hash": "small_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 500,
+                          "height": 375,
+                          "size": 36.36,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/small_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      }
+                  },
+                  "provider": "aws-s3",
+                  "related": [
+                      "5fcf8d1c0ee0eb1b705d61be"
+                  ],
+                  "createdAt": "2020-12-08T14:25:04.065Z",
+                  "updatedAt": "2020-12-08T14:26:36.483Z",
+                  "__v": 0,
+                  "id": "5fcf8cc00ee0eb1b705d61bd"
+              },
+              "id": "5fcf8d1c0ee0eb1b705d61be"
+          }
+      ],
+      "_id": "5fcebb16012385f76d96a0c4",
+      "tag": "events",
+      "published_at": "2020-12-07T23:30:34.679Z",
+      "createdAt": "2020-12-07T23:30:30.950Z",
+      "updatedAt": "2020-12-08T14:29:10.276Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb16012385f76d96a0c4"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb26012385f76d96a0c5",
+      "tag": "fundraisers",
+      "published_at": "2020-12-07T23:31:08.978Z",
+      "createdAt": "2020-12-07T23:30:46.965Z",
+      "updatedAt": "2020-12-07T23:31:09.114Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb26012385f76d96a0c5"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fceda99c4635d0317086561",
+              "Title": "Obstacle Races!",
+              "date": "2020-12-03T17:00:00.000Z",
+              "content": "Recently we received a HUGE shipment from Special Olympics to help us through the school year. With classes not mixing with each other, this year’s grant gave us a classroom kit for each classroom. MANY thanks to Ryan Miller and everyone at Special Olympics  for this awesome supply of physical education materials!!!\n\nHere’s a note from Mrs. Lindsay, Room 14’s Special Education teacher: “Students have really been enjoying the Special Olympics materials we received! They have been setting up obstacle courses for races in the hallway! I attached pictures of them racing too! :)”\n\nThanks for sharing with us, Room  14! We love seeing your activities!",
+              "published_at": "2020-12-08T01:45:00.316Z",
+              "createdAt": "2020-12-08T01:44:57.087Z",
+              "updatedAt": "2020-12-08T01:45:46.687Z",
+              "__v": 0,
+              "id": "5fceda99c4635d0317086561"
+          }
+      ],
+      "_id": "5fcebb4a012385f76d96a0c6",
+      "tag": "grants",
+      "published_at": "2020-12-07T23:31:25.338Z",
+      "createdAt": "2020-12-07T23:31:22.975Z",
+      "updatedAt": "2020-12-08T01:45:46.616Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb4a012385f76d96a0c6"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb60012385f76d96a0c7",
+      "tag": "healthy-food-program",
+      "published_at": "2020-12-07T23:31:46.977Z",
+      "createdAt": "2020-12-07T23:31:44.596Z",
+      "updatedAt": "2020-12-07T23:31:47.114Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb60012385f76d96a0c7"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb6e012385f76d96a0c8",
+      "tag": "life-skills",
+      "published_at": "2020-12-07T23:32:01.487Z",
+      "createdAt": "2020-12-07T23:31:58.771Z",
+      "updatedAt": "2020-12-07T23:32:01.627Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb6e012385f76d96a0c8"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb79012385f76d96a0c9",
+      "tag": "job-skills",
+      "published_at": "2020-12-07T23:32:11.213Z",
+      "createdAt": "2020-12-07T23:32:09.121Z",
+      "updatedAt": "2020-12-07T23:32:11.352Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb79012385f76d96a0c9"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebb85012385f76d96a0ca",
+      "tag": "self-care-skills",
+      "published_at": "2020-12-07T23:32:25.215Z",
+      "createdAt": "2020-12-07T23:32:21.231Z",
+      "updatedAt": "2020-12-07T23:32:25.350Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebb85012385f76d96a0ca"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebba6012385f76d96a0cb",
+      "tag": "english-language-arts",
+      "published_at": "2020-12-07T23:32:56.803Z",
+      "createdAt": "2020-12-07T23:32:54.599Z",
+      "updatedAt": "2020-12-07T23:32:56.941Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebba6012385f76d96a0cb"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebbbe012385f76d96a0cc",
+      "tag": "mathematics",
+      "published_at": "2020-12-07T23:33:22.578Z",
+      "createdAt": "2020-12-07T23:33:18.645Z",
+      "updatedAt": "2020-12-07T23:33:22.724Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebbbe012385f76d96a0cc"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcf8d1c0ee0eb1b705d61be",
+              "content": "We decorated a tree at the [YWCA](https://www.ywca-neny.org/) in Schenectady, for the Festival of Trees. This year’s theme was the book, [Brown Bear, Brown Bear, What Do You See?](https://www.scholastic.com/teachers/books/brown-bear-brown-bear-what-do-you-see-by-bill-martin-jr/) by Bill Martin, Jr. Each class or department made an ornament to represent one of the characters in the book. There is one of each animal, one teacher and a lot of children. We wish everyone a wonderful holiday season, and encourage you to visit the YWCA’s website or that of the [Schenectady County Historical Society](https://schenectadyhistorical.org/festivals/) to learn about visiting the Festival of Trees this year.\nMany thanks to each student and staff member for your creativity and enthusiasm!\n\n[See what we did for the Festival of Trees last year!](http://crossroadcenter.org/an-autism-awareness-tree-by-crossroads-for-the-festival-of-trees/)\n\n",
+              "Title": "Crossroads at Festival of Trees",
+              "date": "2020-11-25T17:00:00.000Z",
+              "published_at": "2020-12-08T14:26:53.963Z",
+              "createdAt": "2020-12-08T14:26:36.112Z",
+              "updatedAt": "2020-12-08T14:29:10.339Z",
+              "__v": 0,
+              "cover": {
+                  "_id": "5fcf8cc00ee0eb1b705d61bd",
+                  "name": "brown-be-ee-tar-tree.jpg",
+                  "alternativeText": "",
+                  "caption": "",
+                  "hash": "brown_be_ee_tar_tree_0c8598c406",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "size": 55.95,
+                  "width": 640,
+                  "height": 480,
+                  "url": "https://crossroads-center-for-children.s3.amazonaws.com/brown_be_ee_tar_tree_0c8598c406.jpg",
+                  "formats": {
+                      "thumbnail": {
+                          "name": "thumbnail_brown-be-ee-tar-tree.jpg",
+                          "hash": "thumbnail_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 208,
+                          "height": 156,
+                          "size": 8.66,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/thumbnail_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      },
+                      "small": {
+                          "name": "small_brown-be-ee-tar-tree.jpg",
+                          "hash": "small_brown_be_ee_tar_tree_0c8598c406",
+                          "ext": ".jpg",
+                          "mime": "image/jpeg",
+                          "width": 500,
+                          "height": 375,
+                          "size": 36.36,
+                          "path": null,
+                          "url": "https://crossroads-center-for-children.s3.amazonaws.com/small_brown_be_ee_tar_tree_0c8598c406.jpg"
+                      }
+                  },
+                  "provider": "aws-s3",
+                  "related": [
+                      "5fcf8d1c0ee0eb1b705d61be"
+                  ],
+                  "createdAt": "2020-12-08T14:25:04.065Z",
+                  "updatedAt": "2020-12-08T14:26:36.483Z",
+                  "__v": 0,
+                  "id": "5fcf8cc00ee0eb1b705d61bd"
+              },
+              "id": "5fcf8d1c0ee0eb1b705d61be"
+          }
+      ],
+      "_id": "5fcebbd0012385f76d96a0cd",
+      "tag": "news",
+      "published_at": "2020-12-07T23:33:39.016Z",
+      "createdAt": "2020-12-07T23:33:36.495Z",
+      "updatedAt": "2020-12-08T14:29:10.276Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebbd0012385f76d96a0cd"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef86a7969f507fa4d41d9",
+              "Title": "Meet the OT/PT Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:52:14.078Z",
+              "createdAt": "2020-12-08T03:52:10.122Z",
+              "updatedAt": "2020-12-08T03:52:14.259Z",
+              "__v": 0,
+              "id": "5fcef86a7969f507fa4d41d9"
+          }
+      ],
+      "_id": "5fcebbdf012385f76d96a0ce",
+      "tag": "physical-therapy",
+      "published_at": "2020-12-07T23:33:53.920Z",
+      "createdAt": "2020-12-07T23:33:51.709Z",
+      "updatedAt": "2020-12-08T03:52:10.305Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [],
+              "posts": [
+                  "5fcef86a7969f507fa4d41d9"
+              ],
+              "tags": [
+                  "5fcebbdf012385f76d96a0ce",
+                  "5fcebbef012385f76d96a0cf"
+              ],
+              "_id": "5fcf8968ef9bb31720910663",
+              "link": "https://youtu.be/zIrUSCZVl5Q",
+              "title": "Meet the OT/PT Team!",
+              "published_at": "2020-12-08T14:10:50.834Z",
+              "createdAt": "2020-12-08T14:10:48.444Z",
+              "updatedAt": "2020-12-08T14:11:14.308Z",
+              "__v": 0,
+              "id": "5fcf8968ef9bb31720910663"
+          }
+      ],
+      "id": "5fcebbdf012385f76d96a0ce"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef86a7969f507fa4d41d9",
+              "Title": "Meet the OT/PT Team!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:52:14.078Z",
+              "createdAt": "2020-12-08T03:52:10.122Z",
+              "updatedAt": "2020-12-08T03:52:14.259Z",
+              "__v": 0,
+              "id": "5fcef86a7969f507fa4d41d9"
+          }
+      ],
+      "_id": "5fcebbef012385f76d96a0cf",
+      "tag": "occupational-therapy",
+      "published_at": "2020-12-07T23:34:10.079Z",
+      "createdAt": "2020-12-07T23:34:07.909Z",
+      "updatedAt": "2020-12-08T03:52:10.305Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [],
+              "posts": [
+                  "5fcef86a7969f507fa4d41d9"
+              ],
+              "tags": [
+                  "5fcebbdf012385f76d96a0ce",
+                  "5fcebbef012385f76d96a0cf"
+              ],
+              "_id": "5fcf8968ef9bb31720910663",
+              "link": "https://youtu.be/zIrUSCZVl5Q",
+              "title": "Meet the OT/PT Team!",
+              "published_at": "2020-12-08T14:10:50.834Z",
+              "createdAt": "2020-12-08T14:10:48.444Z",
+              "updatedAt": "2020-12-08T14:11:14.308Z",
+              "__v": 0,
+              "id": "5fcf8968ef9bb31720910663"
+          }
+      ],
+      "id": "5fcebbef012385f76d96a0cf"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fceda99c4635d0317086561",
+              "Title": "Obstacle Races!",
+              "date": "2020-12-03T17:00:00.000Z",
+              "content": "Recently we received a HUGE shipment from Special Olympics to help us through the school year. With classes not mixing with each other, this year’s grant gave us a classroom kit for each classroom. MANY thanks to Ryan Miller and everyone at Special Olympics  for this awesome supply of physical education materials!!!\n\nHere’s a note from Mrs. Lindsay, Room 14’s Special Education teacher: “Students have really been enjoying the Special Olympics materials we received! They have been setting up obstacle courses for races in the hallway! I attached pictures of them racing too! :)”\n\nThanks for sharing with us, Room  14! We love seeing your activities!",
+              "published_at": "2020-12-08T01:45:00.316Z",
+              "createdAt": "2020-12-08T01:44:57.087Z",
+              "updatedAt": "2020-12-08T01:45:46.687Z",
+              "__v": 0,
+              "id": "5fceda99c4635d0317086561"
+          }
+      ],
+      "_id": "5fcebbff012385f76d96a0d0",
+      "tag": "physical-education",
+      "published_at": "2020-12-07T23:34:26.084Z",
+      "createdAt": "2020-12-07T23:34:23.799Z",
+      "updatedAt": "2020-12-08T01:45:46.616Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebbff012385f76d96a0d0"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebc11012385f76d96a0d1",
+      "tag": "science",
+      "published_at": "2020-12-07T23:34:48.758Z",
+      "createdAt": "2020-12-07T23:34:41.712Z",
+      "updatedAt": "2020-12-07T23:34:48.889Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebc11012385f76d96a0d1"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebc20012385f76d96a0d2",
+      "tag": "social-skills",
+      "published_at": "2020-12-07T23:34:59.390Z",
+      "createdAt": "2020-12-07T23:34:56.779Z",
+      "updatedAt": "2020-12-07T23:34:59.523Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebc20012385f76d96a0d2"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef83a7969f507fa4d41d8",
+              "Title": "Meet the Speech Therapists!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:51:28.987Z",
+              "createdAt": "2020-12-08T03:51:22.715Z",
+              "updatedAt": "2020-12-08T03:52:43.317Z",
+              "__v": 0,
+              "id": "5fcef83a7969f507fa4d41d8"
+          }
+      ],
+      "_id": "5fcebc2c012385f76d96a0d3",
+      "tag": "speech-therapy",
+      "published_at": "2020-12-07T23:35:10.706Z",
+      "createdAt": "2020-12-07T23:35:08.502Z",
+      "updatedAt": "2020-12-08T03:52:43.262Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [],
+              "posts": [
+                  "5fcef83a7969f507fa4d41d8"
+              ],
+              "tags": [
+                  "5fcebc2c012385f76d96a0d3"
+              ],
+              "_id": "5fcf8950ef9bb31720910662",
+              "link": "https://youtu.be/HbhkvMx5vJo",
+              "title": "Meet the Speech Therapists!",
+              "published_at": "2020-12-08T14:10:27.134Z",
+              "createdAt": "2020-12-08T14:10:24.851Z",
+              "updatedAt": "2020-12-08T14:14:35.954Z",
+              "__v": 0,
+              "id": "5fcf8950ef9bb31720910662"
+          }
+      ],
+      "id": "5fcebc2c012385f76d96a0d3"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebc3c012385f76d96a0d4",
+      "tag": "technology",
+      "published_at": "2020-12-07T23:35:26.912Z",
+      "createdAt": "2020-12-07T23:35:24.595Z",
+      "updatedAt": "2020-12-07T23:35:27.050Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebc3c012385f76d96a0d4"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebc59012385f76d96a0d5",
+      "tag": "volunteering",
+      "published_at": "2020-12-07T23:35:55.609Z",
+      "createdAt": "2020-12-07T23:35:53.462Z",
+      "updatedAt": "2020-12-07T23:35:55.790Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebc59012385f76d96a0d5"
+  },
+  {
+      "posts": [],
+      "_id": "5fcebc67012385f76d96a0d6",
+      "tag": "volunteer-opportunities",
+      "published_at": "2020-12-07T23:36:12.017Z",
+      "createdAt": "2020-12-07T23:36:07.074Z",
+      "updatedAt": "2020-12-07T23:36:12.152Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcebc67012385f76d96a0d6"
+  },
+  {
+      "posts": [
+          {
+              "authors": [],
+              "media": [],
+              "_id": "5fcef9877969f507fa4d41db",
+              "Title": "Meet the School Psychologist!",
+              "date": "2020-11-23T17:00:00.000Z",
+              "published_at": "2020-12-08T03:57:28.852Z",
+              "createdAt": "2020-12-08T03:56:55.893Z",
+              "updatedAt": "2020-12-08T03:58:04.035Z",
+              "__v": 0,
+              "id": "5fcef9877969f507fa4d41db"
+          }
+      ],
+      "_id": "5fcef9b47969f507fa4d41dc",
+      "tag": "psychology",
+      "published_at": "2020-12-08T03:57:45.364Z",
+      "createdAt": "2020-12-08T03:57:40.949Z",
+      "updatedAt": "2020-12-08T03:58:03.977Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [
+          {
+              "classes": [],
+              "posts": [
+                  "5fcef9877969f507fa4d41db"
+              ],
+              "tags": [
+                  "5fcef9b47969f507fa4d41dc"
+              ],
+              "_id": "5fcf8a8aef9bb31720910665",
+              "link": "https://youtu.be/kJbs66AyaFI",
+              "title": "Meet the School Psychologist!",
+              "published_at": "2020-12-08T14:15:55.250Z",
+              "createdAt": "2020-12-08T14:15:38.934Z",
+              "updatedAt": "2020-12-08T14:15:55.384Z",
+              "__v": 0,
+              "id": "5fcf8a8aef9bb31720910665"
+          }
+      ],
+      "id": "5fcef9b47969f507fa4d41dc"
+  },
+  {
+      "posts": [],
+      "_id": "5fcfd29e416d4f49732fa586",
+      "tag": "at-home-activities",
+      "published_at": "2020-12-08T19:23:13.286Z",
+      "createdAt": "2020-12-08T19:23:10.525Z",
+      "updatedAt": "2020-12-08T19:23:13.417Z",
+      "__v": 0,
+      "resources": [],
+      "photos": [],
+      "videos": [],
+      "id": "5fcfd29e416d4f49732fa586"
+  }
+]
