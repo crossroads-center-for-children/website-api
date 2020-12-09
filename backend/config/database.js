@@ -1,5 +1,6 @@
 module.exports = ({ env }) => ({
   defaultConnection: "default",
+  database: "crossroads",
   connections: {
     default: {
       connector: "mongoose",

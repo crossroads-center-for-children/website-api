@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "12/08/2020 4:11:49 PM"
+    "x-generation-date": "12/08/2020 8:38:13 PM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -11035,6 +11035,9 @@
                     "type": "string"
                   }
                 },
+                "featured": {
+                  "type": "boolean"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -11287,6 +11290,9 @@
                 "items": {
                   "type": "string"
                 }
+              },
+              "featured": {
+                "type": "boolean"
               },
               "published_at": {
                 "type": "string"
@@ -12267,6 +12273,9 @@
                     "type": "string"
                   }
                 },
+                "featured": {
+                  "type": "boolean"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -13043,6 +13052,9 @@
               }
             }
           },
+          "featured": {
+            "type": "boolean"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -13099,6 +13111,9 @@
             "items": {
               "type": "string"
             }
+          },
+          "featured": {
+            "type": "boolean"
           },
           "published_at": {
             "type": "string",
@@ -13560,6 +13575,9 @@
               }
             }
           },
+          "featured": {
+            "type": "boolean"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -13588,6 +13606,9 @@
             "items": {
               "type": "string"
             }
+          },
+          "featured": {
+            "type": "boolean"
           },
           "published_at": {
             "type": "string",
@@ -14003,6 +14024,9 @@
                     "type": "string"
                   }
                 },
+                "featured": {
+                  "type": "boolean"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -14051,6 +14075,9 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "featured": {
+                  "type": "boolean"
                 },
                 "published_at": {
                   "type": "string"
@@ -14405,6 +14432,9 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "featured": {
+                  "type": "boolean"
                 },
                 "published_at": {
                   "type": "string"
@@ -14982,6 +15012,9 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "featured": {
+                  "type": "boolean"
                 },
                 "published_at": {
                   "type": "string"

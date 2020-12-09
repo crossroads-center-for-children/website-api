@@ -28,8 +28,8 @@
       "dominant": true
     },
     "posts": {
-      "collection": "post",
       "via": "videos",
+      "collection": "post",
       "dominant": true
     },
     "tags": {

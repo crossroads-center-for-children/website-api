@@ -64,12 +64,15 @@
       "required": false
     },
     "photos": {
-      "via": "posts",
-      "collection": "photo"
+      "collection": "photo",
+      "via": "posts"
     },
     "videos": {
-      "via": "posts",
-      "collection": "video"
+      "collection": "video",
+      "via": "posts"
+    },
+    "featured": {
+      "type": "boolean"
     }
   }
 }

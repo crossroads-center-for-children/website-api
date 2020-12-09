@@ -593,6 +593,9 @@
                     "type": "string"
                   }
                 },
+                "featured": {
+                  "type": "boolean"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -641,6 +644,9 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "featured": {
+                  "type": "boolean"
                 },
                 "published_at": {
                   "type": "string"
