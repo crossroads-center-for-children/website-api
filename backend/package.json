@@ -7,8 +7,7 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi",
-    "heroku-postbuild": "cd ../.. && npm install --prefix client && npm run build --prefix client"
+    "strapi": "strapi"
   },
   "devDependencies": {},
   "dependencies": {
