@@ -623,7 +623,7 @@
                 "content": {
                   "type": "string"
                 },
-                "images": {
+                "photos": {
                   "type": "array",
                   "items": {
                     "type": "string"

@@ -23,8 +23,8 @@
       "required": false
     },
     "classes": {
-      "collection": "class",
       "via": "videos",
+      "collection": "class",
       "dominant": true
     },
     "posts": {

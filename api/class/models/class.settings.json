@@ -24,8 +24,8 @@
       "type": "integer"
     },
     "people": {
-      "via": "class",
-      "collection": "people"
+      "collection": "people",
+      "via": "class"
     },
     "cover": {
       "model": "file",
@@ -41,13 +41,13 @@
     "content": {
       "type": "richtext"
     },
-    "images": {
-      "via": "classes",
-      "collection": "photo"
+    "photos": {
+      "collection": "photo",
+      "via": "classes"
     },
     "videos": {
-      "via": "classes",
-      "collection": "video"
+      "collection": "video",
+      "via": "classes"
     }
   }
 }

@@ -639,64 +639,6 @@
               }
             }
           },
-          "classes": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "name": {
-                  "type": "string"
-                },
-                "youngest": {
-                  "type": "number"
-                },
-                "oldest": {
-                  "type": "integer"
-                },
-                "size": {
-                  "type": "integer"
-                },
-                "people": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "cover": {
-                  "type": "string"
-                },
-                "content": {
-                  "type": "string"
-                },
-                "images": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "videos": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "published_at": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
-              }
-            }
-          },
           "posts": {
             "type": "array",
             "items": {
@@ -779,6 +721,64 @@
               }
             }
           },
+          "classes": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "youngest": {
+                  "type": "number"
+                },
+                "oldest": {
+                  "type": "integer"
+                },
+                "size": {
+                  "type": "integer"
+                },
+                "people": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "cover": {
+                  "type": "string"
+                },
+                "content": {
+                  "type": "string"
+                },
+                "photos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "videos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -793,13 +793,13 @@
               "type": "string"
             }
           },
-          "classes": {
+          "posts": {
             "type": "array",
             "items": {
               "type": "string"
             }
           },
-          "posts": {
+          "classes": {
             "type": "array",
             "items": {
               "type": "string"

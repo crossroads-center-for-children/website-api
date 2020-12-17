@@ -679,13 +679,13 @@
                     "type": "string"
                   }
                 },
-                "classes": {
+                "posts": {
                   "type": "array",
                   "items": {
                     "type": "string"
                   }
                 },
-                "posts": {
+                "classes": {
                   "type": "array",
                   "items": {
                     "type": "string"

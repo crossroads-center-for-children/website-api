@@ -27,14 +27,14 @@
       "via": "photos",
       "dominant": true
     },
-    "classes": {
-      "collection": "class",
-      "via": "images",
-      "dominant": true
-    },
     "posts": {
       "via": "photos",
       "collection": "post",
+      "dominant": true
+    },
+    "classes": {
+      "via": "photos",
+      "collection": "class",
       "dominant": true
     }
   }

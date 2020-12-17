@@ -41,8 +41,8 @@
       "type": "date"
     },
     "class": {
-      "model": "class",
-      "via": "people"
+      "via": "people",
+      "model": "class"
     },
     "user": {
       "plugin": "users-permissions",

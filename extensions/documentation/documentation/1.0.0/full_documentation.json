@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "12/09/2020 8:35:20 AM"
+    "x-generation-date": "12/17/2020 3:22:05 PM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -10812,7 +10812,7 @@
           "content": {
             "type": "string"
           },
-          "images": {
+          "photos": {
             "type": "array",
             "items": {
               "required": [
@@ -10831,13 +10831,13 @@
                     "type": "string"
                   }
                 },
-                "classes": {
+                "posts": {
                   "type": "array",
                   "items": {
                     "type": "string"
                   }
                 },
-                "posts": {
+                "classes": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -10933,7 +10933,7 @@
           "content": {
             "type": "string"
           },
-          "images": {
+          "photos": {
             "type": "array",
             "items": {
               "type": "string"
@@ -12148,64 +12148,6 @@
               }
             }
           },
-          "classes": {
-            "type": "array",
-            "items": {
-              "required": [
-                "id"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string"
-                },
-                "name": {
-                  "type": "string"
-                },
-                "youngest": {
-                  "type": "number"
-                },
-                "oldest": {
-                  "type": "integer"
-                },
-                "size": {
-                  "type": "integer"
-                },
-                "people": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "cover": {
-                  "type": "string"
-                },
-                "content": {
-                  "type": "string"
-                },
-                "images": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "videos": {
-                  "type": "array",
-                  "items": {
-                    "type": "string"
-                  }
-                },
-                "published_at": {
-                  "type": "string"
-                },
-                "created_by": {
-                  "type": "string"
-                },
-                "updated_by": {
-                  "type": "string"
-                }
-              }
-            }
-          },
           "posts": {
             "type": "array",
             "items": {
@@ -12288,6 +12230,64 @@
               }
             }
           },
+          "classes": {
+            "type": "array",
+            "items": {
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "youngest": {
+                  "type": "number"
+                },
+                "oldest": {
+                  "type": "integer"
+                },
+                "size": {
+                  "type": "integer"
+                },
+                "people": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "cover": {
+                  "type": "string"
+                },
+                "content": {
+                  "type": "string"
+                },
+                "photos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "videos": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "published_at": {
+                  "type": "string"
+                },
+                "created_by": {
+                  "type": "string"
+                },
+                "updated_by": {
+                  "type": "string"
+                }
+              }
+            }
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -12302,13 +12302,13 @@
               "type": "string"
             }
           },
-          "classes": {
+          "posts": {
             "type": "array",
             "items": {
               "type": "string"
             }
           },
-          "posts": {
+          "classes": {
             "type": "array",
             "items": {
               "type": "string"
@@ -12979,13 +12979,13 @@
                     "type": "string"
                   }
                 },
-                "classes": {
+                "posts": {
                   "type": "array",
                   "items": {
                     "type": "string"
                   }
                 },
-                "posts": {
+                "classes": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14110,13 +14110,13 @@
                     "type": "string"
                   }
                 },
-                "classes": {
+                "posts": {
                   "type": "array",
                   "items": {
                     "type": "string"
                   }
                 },
-                "posts": {
+                "classes": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14342,7 +14342,7 @@
                 "content": {
                   "type": "string"
                 },
-                "images": {
+                "photos": {
                   "type": "array",
                   "items": {
                     "type": "string"
