@@ -37,8 +37,8 @@
       "dominant": true
     },
     "shared_by": {
-      "collection": "people",
-      "via": "resources_shared"
+      "via": "resources_shared",
+      "collection": "people"
     },
     "featured": {
       "type": "boolean"

@@ -73,6 +73,10 @@
     },
     "featured": {
       "type": "boolean"
+    },
+    "classes": {
+      "via": "posts",
+      "collection": "class"
     }
   }
 }

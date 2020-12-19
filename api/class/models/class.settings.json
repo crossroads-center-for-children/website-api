@@ -48,6 +48,14 @@
     "videos": {
       "collection": "video",
       "via": "classes"
+    },
+    "posts": {
+      "collection": "post",
+      "via": "classes",
+      "dominant": true
+    },
+    "slug": {
+      "type": "string"
     }
   }
 }

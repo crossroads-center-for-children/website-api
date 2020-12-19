@@ -58,8 +58,8 @@
       "via": "providers"
     },
     "resources_shared": {
-      "via": "shared_by",
       "collection": "resource",
+      "via": "shared_by",
       "dominant": true
     }
   }
