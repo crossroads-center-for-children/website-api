@@ -649,10 +649,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -794,6 +794,12 @@
               }
             }
           },
+          "link": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -819,6 +825,12 @@
             "items": {
               "type": "string"
             }
+          },
+          "link": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",

@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "12/19/2020 10:30:21 AM"
+    "x-generation-date": "12/19/2020 6:30:24 PM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -10843,6 +10843,12 @@
                     "type": "string"
                   }
                 },
+                "link": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -10914,10 +10920,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -11078,10 +11084,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -11340,10 +11346,10 @@
               "id": {
                 "type": "string"
               },
-              "Title": {
+              "title": {
                 "type": "string"
               },
-              "Subtitle": {
+              "subtitle": {
                 "type": "string"
               },
               "date": {
@@ -12270,10 +12276,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -12415,6 +12421,12 @@
               }
             }
           },
+          "link": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -12440,6 +12452,12 @@
             "items": {
               "type": "string"
             }
+          },
+          "link": {
+            "type": "string"
+          },
+          "caption": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",
@@ -12747,10 +12765,10 @@
           "id": {
             "type": "string"
           },
-          "Title": {
+          "title": {
             "type": "string"
           },
-          "Subtitle": {
+          "subtitle": {
             "type": "string"
           },
           "date": {
@@ -13118,6 +13136,12 @@
                     "type": "string"
                   }
                 },
+                "link": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
+                },
                 "published_at": {
                   "type": "string"
                 },
@@ -13257,10 +13281,10 @@
       },
       "NewPost": {
         "properties": {
-          "Title": {
+          "title": {
             "type": "string"
           },
-          "Subtitle": {
+          "subtitle": {
             "type": "string"
           },
           "date": {
@@ -14167,10 +14191,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -14327,6 +14351,12 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "link": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"
@@ -14591,10 +14621,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -15177,10 +15207,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {

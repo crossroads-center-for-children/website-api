@@ -42,16 +42,16 @@
       "type": "richtext"
     },
     "photos": {
-      "collection": "photo",
-      "via": "classes"
+      "via": "classes",
+      "collection": "photo"
     },
     "videos": {
       "collection": "video",
       "via": "classes"
     },
     "posts": {
-      "collection": "post",
       "via": "classes",
+      "collection": "post",
       "dominant": true
     },
     "slug": {

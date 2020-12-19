@@ -11,10 +11,10 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Title": {
+    "title": {
       "type": "string"
     },
-    "Subtitle": {
+    "subtitle": {
       "type": "string"
     },
     "date": {
@@ -75,8 +75,8 @@
       "type": "boolean"
     },
     "classes": {
-      "via": "posts",
-      "collection": "class"
+      "collection": "class",
+      "via": "posts"
     }
   }
 }

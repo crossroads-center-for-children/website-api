@@ -536,10 +536,10 @@
                 "id": {
                   "type": "string"
                 },
-                "Title": {
+                "title": {
                   "type": "string"
                 },
-                "Subtitle": {
+                "subtitle": {
                   "type": "string"
                 },
                 "date": {
@@ -696,6 +696,12 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "link": {
+                  "type": "string"
+                },
+                "caption": {
+                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"

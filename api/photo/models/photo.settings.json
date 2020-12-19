@@ -33,9 +33,15 @@
       "dominant": true
     },
     "classes": {
-      "via": "photos",
       "collection": "class",
+      "via": "photos",
       "dominant": true
+    },
+    "link": {
+      "type": "string"
+    },
+    "caption": {
+      "type": "text"
     }
   }
 }
