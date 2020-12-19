@@ -10073,7 +10073,7 @@ strapi-utils@3.4.0:
     pluralize "^8.0.0"
     yup "0.29.3"
 
-strapi@3.4.0:
+strapi@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/strapi/-/strapi-3.4.0.tgz#7126557b729e71338ba656bffd163ebdae200756"
   integrity sha512-4g5159olFJQHhcHrW73ayXI4FXclM0GVMzcpPeZnlivzsfORK5ZgsszdlKG9jNvG+bHhu5XvVE7pSyorLTwpjA==
