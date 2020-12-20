@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "tags",
   "info": {
-    "name": "Tag"
+    "name": "Tag",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -16,21 +17,21 @@
       "required": true
     },
     "posts": {
-      "via": "tags",
       "collection": "post",
+      "via": "tags",
       "dominant": true
     },
     "resources": {
-      "via": "tags",
-      "collection": "resource"
+      "collection": "resource",
+      "via": "tags"
     },
     "photos": {
-      "via": "tags",
-      "collection": "photo"
+      "collection": "photo",
+      "via": "tags"
     },
-    "videos": {
-      "via": "tags",
-      "collection": "video"
+    "attachments": {
+      "collection": "video",
+      "via": "tags"
     }
   }
 }

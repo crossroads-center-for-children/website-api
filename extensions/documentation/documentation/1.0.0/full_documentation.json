@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "12/19/2020 7:31:29 PM"
+    "x-generation-date": "12/20/2020 10:56:36 AM"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -10861,7 +10861,7 @@
               }
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "required": [
@@ -10871,7 +10871,13 @@
                 "id": {
                   "type": "string"
                 },
-                "video": {
+                "attachment": {
+                  "type": "string"
+                },
+                "link": {
+                  "type": "string"
+                },
+                "title": {
                   "type": "string"
                 },
                 "classes": {
@@ -10891,12 +10897,6 @@
                   "items": {
                     "type": "string"
                   }
-                },
-                "link": {
-                  "type": "string"
-                },
-                "title": {
-                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"
@@ -10971,7 +10971,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -11036,7 +11036,7 @@
               "type": "string"
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "type": "string"
@@ -11135,7 +11135,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -11397,7 +11397,7 @@
                   "type": "string"
                 }
               },
-              "videos": {
+              "attachments": {
                 "type": "array",
                 "items": {
                   "type": "string"
@@ -12248,7 +12248,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -12327,7 +12327,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -12394,7 +12394,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -12877,7 +12877,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -13154,7 +13154,7 @@
               }
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "required": [
@@ -13164,7 +13164,13 @@
                 "id": {
                   "type": "string"
                 },
-                "video": {
+                "attachment": {
+                  "type": "string"
+                },
+                "link": {
+                  "type": "string"
+                },
+                "title": {
                   "type": "string"
                 },
                 "classes": {
@@ -13184,12 +13190,6 @@
                   "items": {
                     "type": "string"
                   }
-                },
-                "link": {
-                  "type": "string"
-                },
-                "title": {
-                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"
@@ -13246,7 +13246,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -13324,7 +13324,7 @@
               "type": "string"
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "type": "string"
@@ -13714,7 +13714,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14242,7 +14242,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14370,7 +14370,7 @@
               }
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "required": [
@@ -14380,7 +14380,13 @@
                 "id": {
                   "type": "string"
                 },
-                "video": {
+                "attachment": {
+                  "type": "string"
+                },
+                "link": {
+                  "type": "string"
+                },
+                "title": {
                   "type": "string"
                 },
                 "classes": {
@@ -14400,12 +14406,6 @@
                   "items": {
                     "type": "string"
                   }
-                },
-                "link": {
-                  "type": "string"
-                },
-                "title": {
-                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"
@@ -14451,7 +14451,7 @@
               "type": "string"
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "type": "string"
@@ -14477,7 +14477,7 @@
           "id": {
             "type": "string"
           },
-          "video": {
+          "attachment": {
             "required": [
               "id",
               "name",
@@ -14544,6 +14544,12 @@
               }
             }
           },
+          "link": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
           "classes": {
             "type": "array",
             "items": {
@@ -14584,7 +14590,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14672,7 +14678,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14731,7 +14737,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -14749,12 +14755,6 @@
               }
             }
           },
-          "link": {
-            "type": "string"
-          },
-          "title": {
-            "type": "string"
-          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -14763,6 +14763,12 @@
       },
       "NewVideo": {
         "properties": {
+          "link": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
           "classes": {
             "type": "array",
             "items": {
@@ -14780,12 +14786,6 @@
             "items": {
               "type": "string"
             }
-          },
-          "link": {
-            "type": "string"
-          },
-          "title": {
-            "type": "string"
           },
           "published_at": {
             "type": "string",
@@ -15258,7 +15258,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"

@@ -42,10 +42,10 @@
       "type": "richtext"
     },
     "photos": {
-      "via": "classes",
-      "collection": "photo"
+      "collection": "photo",
+      "via": "classes"
     },
-    "videos": {
+    "attachments": {
       "collection": "video",
       "via": "classes"
     },

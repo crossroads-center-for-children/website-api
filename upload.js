@@ -16,15 +16,14 @@ const run = async function () {
   const bucketName = "crossroads-center-for-children";
 
   const s3 = new S3Client({ region: "us-east-1" });
-  const data = await fs.readFile("./IMG_7212.jpg");
+  const data = await fs.readFile("./videos/IMG_8200.mov");
 
   await s3.send(
     new PutObjectCommand({
       Bucket: bucketName,
-      Key: "test-image7.jpg",
+      Key: "test.mov",
       Body: data,
       ACL: "public-read",
-      ContentDisposition: "inline",
     })
   );
 };

@@ -35,8 +35,8 @@
       "required": false
     },
     "tags": {
-      "collection": "tag",
-      "via": "posts"
+      "via": "posts",
+      "collection": "tag"
     },
     "comments": {
       "collection": "comment",
@@ -67,7 +67,7 @@
       "collection": "photo",
       "via": "posts"
     },
-    "videos": {
+    "attachments": {
       "collection": "video",
       "via": "posts"
     },

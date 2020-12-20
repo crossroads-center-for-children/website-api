@@ -522,7 +522,7 @@
           "id": {
             "type": "string"
           },
-          "video": {
+          "attachment": {
             "required": [
               "id",
               "name",
@@ -589,6 +589,12 @@
               }
             }
           },
+          "link": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
           "classes": {
             "type": "array",
             "items": {
@@ -629,7 +635,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -717,7 +723,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -776,7 +782,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -794,12 +800,6 @@
               }
             }
           },
-          "link": {
-            "type": "string"
-          },
-          "title": {
-            "type": "string"
-          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -808,6 +808,12 @@
       },
       "NewVideo": {
         "properties": {
+          "link": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
           "classes": {
             "type": "array",
             "items": {
@@ -825,12 +831,6 @@
             "items": {
               "type": "string"
             }
-          },
-          "link": {
-            "type": "string"
-          },
-          "title": {
-            "type": "string"
           },
           "published_at": {
             "type": "string",

@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "videos",
+  "collectionName": "attachments",
   "info": {
-    "name": "Video",
+    "name": "Attachment",
     "description": ""
   },
   "options": {
@@ -11,7 +11,7 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "video": {
+    "attachment": {
       "model": "file",
       "via": "related",
       "allowedTypes": [
@@ -22,26 +22,26 @@
       "plugin": "upload",
       "required": false
     },
-    "classes": {
-      "via": "videos",
-      "collection": "class",
-      "dominant": true
-    },
-    "posts": {
-      "via": "videos",
-      "collection": "post",
-      "dominant": true
-    },
-    "tags": {
-      "collection": "tag",
-      "via": "videos",
-      "dominant": true
-    },
     "link": {
       "type": "string"
     },
     "title": {
       "type": "string"
+    },
+    "classes": {
+      "via": "attachments",
+      "collection": "class",
+      "dominant": true
+    },
+    "posts": {
+      "via": "attachments",
+      "collection": "post",
+      "dominant": true
+    },
+    "tags": {
+      "via": "attachments",
+      "collection": "tag",
+      "dominant": true
     }
   }
 }

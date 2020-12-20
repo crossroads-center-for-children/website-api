@@ -1480,7 +1480,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"

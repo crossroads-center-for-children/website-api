@@ -587,7 +587,7 @@
                     "type": "string"
                   }
                 },
-                "videos": {
+                "attachments": {
                   "type": "array",
                   "items": {
                     "type": "string"
@@ -715,7 +715,7 @@
               }
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "required": [
@@ -725,7 +725,13 @@
                 "id": {
                   "type": "string"
                 },
-                "video": {
+                "attachment": {
+                  "type": "string"
+                },
+                "link": {
+                  "type": "string"
+                },
+                "title": {
                   "type": "string"
                 },
                 "classes": {
@@ -745,12 +751,6 @@
                   "items": {
                     "type": "string"
                   }
-                },
-                "link": {
-                  "type": "string"
-                },
-                "title": {
-                  "type": "string"
                 },
                 "published_at": {
                   "type": "string"
@@ -796,7 +796,7 @@
               "type": "string"
             }
           },
-          "videos": {
+          "attachments": {
             "type": "array",
             "items": {
               "type": "string"

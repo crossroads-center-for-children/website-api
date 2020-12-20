@@ -23,8 +23,8 @@
       "required": false
     },
     "tags": {
-      "collection": "tag",
       "via": "photos",
+      "collection": "tag",
       "dominant": true
     },
     "posts": {
@@ -33,8 +33,8 @@
       "dominant": true
     },
     "classes": {
-      "collection": "class",
       "via": "photos",
+      "collection": "class",
       "dominant": true
     },
     "link": {

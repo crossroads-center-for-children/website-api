@@ -32,8 +32,8 @@
       "required": false
     },
     "tags": {
-      "collection": "tag",
       "via": "resources",
+      "collection": "tag",
       "dominant": true
     },
     "shared_by": {
